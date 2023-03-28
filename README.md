@@ -1,6 +1,6 @@
 # SQL-Project_COVID19
 A project of Data Manipulation with SQL
-Thanks for ALex The Analyst
+Thanks to ALex The Analyst
 
 This project involved using SQL to perform the below manipulations of COVID19 data: 
 - importing and sorting of data
